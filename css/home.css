@@ -8,4 +8,11 @@
   width: 100%;
   opacity: 1;
   background-color: rgba(255, 0, 0, 0.2);
+  z-index: 100;
+}
+.carousel-control-next,
+.carousel-control-prev,
+.carousel-indicators,
+.btn .btn-primary {
+  z-index: 101;
 }
