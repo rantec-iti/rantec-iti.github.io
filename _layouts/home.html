@@ -13,7 +13,7 @@ layout: default
         <div class="carousel-caption vh-100 d-flex">
             <div class="my-auto">
                 <h1 class="my-auto">RANTEC I.T.I</h1>
-                <button class="my-auto btn btn-primary">Apply Now</button>
+                <!-- <button class="my-auto btn btn-primary">Apply Now</button> -->
             </div>
         </div>
       </div>
@@ -62,22 +62,35 @@ layout: default
     </div>
     <div class="row pt-2">
         <div class="card col-md-3 offset-md-1 p-2">
-            <div class="card-body">
+            <div class="card-body text-center">
                 <h1 class="card-title"><i class="fas fa-plug"></i></h1>
                 <h5 class="card-text">Electrician</h5>
+                <a href="{{site.baseurl}}/syllabus/electrician" class="btn btn-primary">Syllabus</a>
             </div>
         </div>
         <div class="card col-md-3 offset-md-1 p-2">
-            <div class="card-body">
+            <div class="card-body text-center">
                 <h1 class="card-title"><i class="fas fa-wrench"></i></h1>
                 <h5 class="card-text">Fitter</h5>
+                <a href="{{site.baseurl}}/syllabus/fitter" class="btn btn-primary">Syllabus</a>
             </div>
         </div>
         <div class="card col-md-3 offset-md-1 p-2">
-            <div class="card-body">
+            <div class="card-body text-center">
                 <h1 class="card-title"><i class="fas fa-microchip"></i></h1>
                 <h5 class="card-text">Electronics Mechanic</h5>
+                <a href="{{site.baseurl}}/syllabus/electronics-mechanics" class="btn btn-primary">Syllabus</a>
             </div>
         </div>
     </div>
 </div>
+<div id="map" class="container p-5">
+    <div class="row pt-2">
+        <h2>Find Us </h2>
+    </div>
+    <div class="row pt-2">
+        <iframe class="mx-auto d-flex" scrolling="no" id="gmap_canvas" src="https://maps.google.com/maps?hl=en&amp;q=Rantec%20ITI%20College%20Jamshedpur+(RANTEC%20I.T.I.)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0"></iframe> 
+        <a href='https://addmap.net/'>google maps embed</a> 
+    </div>
+</div>
+<script type='text/javascript' src='https://maps-generator.com/google-maps-authorization/script.js?id=6f2b766842657bdca10e77a443a9a8707398a1e8'></script>

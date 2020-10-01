@@ -16,3 +16,7 @@
 .btn .btn-primary {
   z-index: 101;
 }
+#gmap_canvas {
+  width: 90vw;
+  height: 50vh; /* The height is 400 pixels */
+}
