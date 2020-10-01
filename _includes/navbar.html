@@ -10,24 +10,28 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href={{"/"|prepend:site.baseurl}}>Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Dropdown
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#">Something else here</a>
-            </div>
+                <a class="nav-link dropdown-toggle" href="#" id="aboutDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    About
+                </a>
+                <div class="dropdown-menu" aria-labelledby="aboutDropdown">
+                    <a class="dropdown-item" href={{"/mission"|prepend: site.baseurl}}>Mission and Vision</a>
+                    <a class="dropdown-item" href="{{"/aim"|prepend: site.baseurl}}">Aims and Objectives</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{{"/history"|prepend: site.baseurl}}">Our History</a>
+                </div>
             </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="syllabusDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Syllabus
+                </a>
+                <div class="dropdown-menu" aria-labelledby="syllabusDropdown">
+                    <a class="dropdown-item" href="#">Electrician</a>
+                    <a class="dropdown-item" href="#">Fitter</a>
+                    <a class="dropdown-item" href="#">Electronics Mechanics</a>
+                </div>
             </li>
         </ul>
     </div>

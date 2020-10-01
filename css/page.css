@@ -1,0 +1,6 @@
+.header-image {
+  width: 100vw;
+  height: 40vh;
+  overflow: hidden;
+  object-fit: cover;
+}
