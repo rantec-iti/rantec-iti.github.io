@@ -20,3 +20,8 @@
   width: 90vw;
   height: 50vh; /* The height is 400 pixels */
 }
+.vh-50 {
+  height: 50vh;
+  object-position: center;
+  object-fit: cover;
+}

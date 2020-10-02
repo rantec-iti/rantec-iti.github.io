@@ -1,0 +1,13 @@
+---
+layout: page
+title: Director's Desk
+header_image:
+---
+
+> I am extremely privileged to lead an institute which is an undisputed pioneer in the field of skill training or upgrading skills and knowledge through competence-based education. We at RANCHI TELEVISION&ELECTRONICS TRAINING CENTRE (RANTEC ITI) aim to upgrade the benchmark thorough latest teaching tools, world class training modules to cope with the ever changing corporate and education scenario.
+
+> RANTEC ITI was established in 1986 to educate trainees & make them skilful for suitable industrial employment as well as self-employment. This Industrial Training Institute is affiliated to the National Council for Vocational Training (NCVT), New Delhi through the Directorate General of Employment Training (DGET), In the Ministry of Labour, Government of India and New Delhi. The Craftsmen Training Scheme ITI Course was started by the training centre in 1994 to ensure a steady flow of skilled workers in different trades of industry to raise the quality & quantity of industrial production by systematic training of workers & to reduce unemployment among the educated youth by providing them suitable training. The institute has got the permanent affiliation letter from National Council for Vocational Training (NCVT) vide letter no-DGET6/4/1/98-TC Govt of India, Ministry of Labour New Delhi dated 5/11/98& also recognized by Bihar Govt. vide letter no-19/94- 2136 dated 7th October 99 under Labour Employment Training Department Bihar Patna.
+
+> RANTEC ITI is a training Institute which provides training in technical field. The Institute is committed for Technical excellence & for securing high positions for deserving candidates in large numbers in businesses & industried to contribute to economic development and prosperity of our country. The objective of opening of ITI is providing technical manpower to industries. Most of ITIs impart training in technical trades like electrician, fittter, electronics etc. The courses in ITIs are designed in a way to impart basic skills in the trade specified. It is established for Technical development of an unemployed person to train and be able to get employment or self-employ. Since last few years after successful training several students are working & are employed in different parts of country in public & private sectors & government departments
+
+> RANTEC is a prominent industrial Training Institute. The dedication, support and motivation of each of the staffs is remarkable and enable students to achieve their dreams. Is 1s a unique institution of its kind in Jharkhand, well equipped workshops, library, generator & tactical facilities with experts and experienced supervisors who will impart intensive training.
