@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Vision and Mission
-permalink: /mission
 header_image: https://www.pngitem.com/pimgs/m/194-1947767_vision-and-mission-png-transparent-png.png
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Aims and Objectives
-permalink: /aim
 header_image:
 ---
 
