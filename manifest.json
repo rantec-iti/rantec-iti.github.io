@@ -1,0 +1,13 @@
+---
+---
+{
+  "name": "RANTEC ITI Jamshedpur",
+  "short_name": "RANTEC",
+  "icons": [
+    {
+      "src": "{{site.baseurl}}/assets/favicon.svg"
+    }],
+  "background_color": "#ffffff",
+  "theme_color": "#7a0000",
+  "display": "fullscreen"
+})
