@@ -4,3 +4,8 @@
   overflow: hidden;
   object-fit: cover;
 }
+.vh-50 {
+  height: 50vh;
+  object-position: center;
+  object-fit: cover;
+}

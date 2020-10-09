@@ -66,17 +66,22 @@ layout: default
    <div class="row pt-2">
         <h2>Director's Desk</h2>
     </div>
-    <div class="row pt-2">
-        {% for my_page in site.pages %}
-            {% if my_page.title=="Director's Desk" %}    
+    <div class="row pt-2 mx-auto">
+        <blockquote class="blockquote blockquote-custom bg-white p-5 shadow rounded">
+            <div class="blockquote-custom-icon bg-secondary shadow-sm"><i class="fa fa-quote-left text-white"></i></div>
+            <p class="mb-0 mt-2 font-italic">
+                {% for my_page in site.pages %}
+                {% if my_page.title=="Director's Desk" %}    
                 {{ my_page.content | truncate: 423 }}
-            {% endif %}
-        {% endfor %}
-        <a href="{{site.baseurl}}/about/director-desk">Read More</a>
+                {% endif %}
+                {% endfor %}
+                <a href="{{site.baseurl}}/about/director-desk">Read More</a>
+            </p>
+        </blockquote>
     </div>
 </div>
 
-<div class="container p-5">
+<div class="container p-5" id="contact">
     <div class="row pt-2">
         <h3>Want more information?</h3>
     </div>
