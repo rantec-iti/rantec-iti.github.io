@@ -1,0 +1,14 @@
+---
+layout: page
+title: Gallery
+---
+<div class="row">
+    {% for image in site.static_files %}
+        {% if image.path contains 'gallery' %}
+            <div class="col-4 py-3">
+                <img class="img-fluid mx-auto" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+            </div>
+        {% endif %}
+    {% endfor %}
+
+</div>
