@@ -1,0 +1,63 @@
+---
+layout: page
+title: Admissions
+---
+<p>
+    Applicants are supposed to appear at the admission's desk with their <strong>10th pass certificates</strong> and proper documentation.<br/>
+    Passport size photos of the applicant should be submitted during time of admission. The applicant must also get a valid identity proof to secure admission at the institution.
+</p>
+<form class="container p-5 bg-light rounded" action="https://formspree.io/f/xbjpdepv" method="POST" >
+    <div class="row">
+        <div class="form-group col-md-12">
+            <label for="FullName">Full Name of Applicant</label>
+            <input type="text" class="form-control" name="FullName" id="FullName" aria-describedby="FullNameHelp">
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-6">
+            <label for="FatherName">Father's Name</label>
+            <input type="text" class="form-control" name="FatherName" id="FatherName">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="MotherName">Mother's  Name</label>
+            <input type="text" class="form-control" name="MotherName" id="MotherName">
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-12">
+            <label for="PermanentAddress">Permanent Address</label>
+            <textarea class="form-control" name="PermanentAddress" id="PermanentAddress" rows="3"></textarea>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-12">
+            <label for="PresentAddress">Present Address of Applicant</label>
+            <textarea class="form-control" name="PresentAddress" id="PresentAddress" rows="3"></textarea>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-3">
+            <label for="DateOfBirth">Date of Birth</label>
+            <input type="date" class="form-control" name="DateOfBirth" id="DateOfBirth">
+        </div>
+        <div class="form-group col-md-3">
+            <label for="PhoneNumber">Phone Number</label>
+            <input type="text" class="form-control" name="PhoneNumber" id="PhoneNumber">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="EmailId">Email Id</label>
+            <input type="email" class="form-control" name="EmailId" id="EmailId">
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-12">
+            <label for="UID">UID</label>
+            <input type="text" class="form-control" name="UID" id="UID">
+        </div>
+    </div>
+    <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" name="Reservation" id="Reservation">
+        <label class="form-check-label" for="Reservation">SC/ST/OBC category</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

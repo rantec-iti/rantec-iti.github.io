@@ -5,3 +5,15 @@
 html {
     scroll-behavior: smooth;
 }
+body{
+    background: url("{{site.baseurl}}/assets/back.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;
+}
+nav, footer{
+    background: url("{{site.baseurl}}/assets/footer.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}

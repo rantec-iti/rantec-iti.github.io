@@ -1,21 +1,21 @@
-name,logo
-TATA MOTORS LTD,https://upload.wikimedia.org/wikipedia/commons/f/f1/Tata_Motors_Logo.svg
-RELIANCE JIOINFOCOMM LTD,https://upload.wikimedia.org/wikipedia/commons/5/50/Reliance_Jio_Logo_%28October_2015%29.svg
-SASCO STEEL LTD,SASCO.svg
-HITECH CHEMICAL LTD,hi-tech.png
-L & T CONSTRUCTION LTD,https://upload.wikimedia.org/wikipedia/en/a/a1/Larsen%26Toubro_logo.svg
-ADHUNIK STEEL PLANT,https://media-exp1.licdn.com/dms/image/C510BAQEtJ5rTIZvjvw/company-logo_200_200/0?e=1610582400&v=beta&t=c4vvJpHoC1HfDTNIm3wdJIuIIBUKPr2dRA2-eowOqos
-HERO MOTOCORP,https://upload.wikimedia.org/wikipedia/en/0/0f/Hero_MotoCorp.svg
-ADITYAPUR DIES,Adityapur_Dies.svg
-BLUESTAR MALLEABLE PVT LTD,bsmpl.png
-VARROC ENGINEERING LTD,varroc-logo.png
-LUCAS TVS LTD CHAKAN,lucas-tvs.png
-STERLING & WILSON PVT LTD,SW-logo.PNG
-ASL INDUSTRIES LTD,aslindustries.jpg
-SAMARTH ENG. CO. PVT LTD,samarth.png
-SHAH HITECH AUTO ALCAST CO PVT LTD,http://shahhitech.com/css/images/logo.png
-PUSKAR TECHNO PVT LTD,pushkar.jpg
-METALSA INDIA PVT LTD,Metalsa.png
-P K INDUSTRIES,PK_Industries.wbep
-SIGMA VIDYUT PRODUCTS PVT LTD,
-A K INDUSTRIES,
+id,name,logo
+0,TATA MOTORS LTD,https://upload.wikimedia.org/wikipedia/commons/f/f1/Tata_Motors_Logo.svg
+1,RELIANCE JIOINFOCOMM LTD,https://upload.wikimedia.org/wikipedia/commons/5/50/Reliance_Jio_Logo_%28October_2015%29.svg
+2,SASCO STEEL LTD,SASCO.svg
+3,HITECH CHEMICAL LTD,hi-tech.png
+4,L & T CONSTRUCTION LTD,https://upload.wikimedia.org/wikipedia/en/a/a1/Larsen%26Toubro_logo.svg
+5,ADHUNIK STEEL PLANT,https://media-exp1.licdn.com/dms/image/C510BAQEtJ5rTIZvjvw/company-logo_200_200/0?e=1610582400&v=beta&t=c4vvJpHoC1HfDTNIm3wdJIuIIBUKPr2dRA2-eowOqos
+6,HERO MOTOCORP,https://upload.wikimedia.org/wikipedia/en/0/0f/Hero_MotoCorp.svg
+7,ADITYAPUR DIES,Adityapur_Dies.svg
+8,BLUESTAR MALLEABLE PVT LTD,bsmpl.png
+9,VARROC ENGINEERING LTD,varroc-logo.png
+10,LUCAS TVS LTD CHAKAN,lucas-tvs.png
+11,STERLING & WILSON PVT LTD,SW-logo.PNG
+12,ASL INDUSTRIES LTD,aslindustries.jpg
+13,SAMARTH ENG. CO. PVT LTD,samarth.png
+14,SHAH HITECH AUTO ALCAST CO PVT LTD,http://shahhitech.com/css/images/logo.png
+15,PUSKAR TECHNO PVT LTD,pushkar.jpg
+16,METALSA INDIA PVT LTD,Metalsa.png
+17,P K INDUSTRIES,PK_Industries.wbep
+18,SIGMA VIDYUT PRODUCTS PVT LTD,
+19,A K INDUSTRIES,
