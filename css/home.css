@@ -41,3 +41,12 @@
   top: -25px;
   right: 50px;
 }
+.carousel-slide {
+  display: inline-block;
+  margin-left: -4px;
+}
+
+.img-thumbnail {
+  width: auto;
+  max-height: 100px;
+}
